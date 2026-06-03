@@ -1,0 +1,4 @@
+reservation_status_id,reservation_status_name
+1,Check-Out
+2,Canceled
+3,No-Show

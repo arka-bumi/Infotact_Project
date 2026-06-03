@@ -1,0 +1,6 @@
+meal_id,meal_name,meal_description
+BB,Bed & Breakfast,Breakfast only
+FB,Full Board,"Breakfast, lunch & dinner"
+HB,Half Board,Breakfast & one other meal
+SC,Self Catering,No meals included
+Undefined,Undefined,No meal package or undefined
